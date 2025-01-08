@@ -1,0 +1,1 @@
+Esta práctica se tratará de crear y gestionar ramas en GIT, usaremos lo que hemos visto en clases e improvisaremos en caso de atascarnos.
