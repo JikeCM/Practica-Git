@@ -1,0 +1,19 @@
+1)Chistes: Contiene 3 chistes aleatorios.
+    Chiste1
+    Chiste2
+    Chiste3
+
+2)Adivinanzas: Contiene 3 adivinanzas aleatorias.
+    Adivinanza1
+    Adivinanza2
+    Adivinanza3
+
+3)Refranes: Contiene 3 refranes aleatorios.
+    Refran1
+    Refran2
+    Refran3
+
+4)Trabalenguas: Contiene 3 trabalenguas aleatorias.
+    Trabalengua1
+    Trabalengua2
+    Trabalengua3
